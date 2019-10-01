@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hooyanikic.advancedconcreteprotection.co.uk/sitemap.xml
